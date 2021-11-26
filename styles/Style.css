@@ -1,0 +1,14 @@
+@font-face {
+  font-family: bangla;
+  src: url('../assets/fonts/somvob.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: bangla !important;
+}
